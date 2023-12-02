@@ -9,4 +9,3 @@ jobs:
       - name: Run Feed Generator
         uses: Jamesxuxiao/practical-generator@main
         
-       
